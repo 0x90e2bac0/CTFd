@@ -1,0 +1,4 @@
+[{
+	"name": "Another Plugin",
+	"route": "/admin/plugin/route"
+}]
